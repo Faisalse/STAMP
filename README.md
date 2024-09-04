@@ -15,7 +15,7 @@
     <li>Move into the <b>STAMP</b> directory</li>
     <li>Run this command to create virtual environment: <code>conda create --name STAMP_env python=3.6</code></li>
     <li>Run this command to activate the virtual environment: <code>conda activate STAMP_env</code></li>
-    <li>Run this command to install the required libraries for CPU: <code>pip install -r requirements_cpu.txt</code></li>
+    <li>Run this command to install the required libraries for CPU: <code>pip install -r requirements_stamp.txt</code></li>
   </ul>
 </p>
 
